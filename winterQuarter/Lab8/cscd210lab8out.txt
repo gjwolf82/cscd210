@@ -1,0 +1,157 @@
+Gabrielle Wolf
+CSCD 210
+2/4/2018
+Lab 8
+
+1)
+Enter a positive integer: 5
+Enter a number to fill the Array: 2
+Enter a number to fill the Array: 4
+Enter a number to fill the Array: 6
+Enter a number to fill the Array: 8
+Enter a number to fill the Array: 10
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 1
+Enter a number: 12
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 4
+2
+4
+6
+8
+10
+12
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 2
+Enter a value you want deleted: 4
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 4
+2
+6
+8
+10
+12
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 3
+Enter a index value: 0
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 4
+6
+8
+10
+12
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 5
+Mean 9.0
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 6
+median 9.0
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 7
+Midpoint 12.0
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 8
+Standard Deviation 2.581988897471611
+Menu choice are: 
+1) Add a value to the array
+2) Delete a value from the array (by value)
+3) Delete a value from the array (by location)
+4) Display the array
+5) Compute the mean of the array
+6) Compute the median of the array
+7) Compute the midpoint of the array
+8) Compute the standard deviation of the array
+9) Quit
+Enter your choice: 9
+All Done
+Good Bye

@@ -1,0 +1,73 @@
+Gabrielle Wolf
+CSCD 210
+2/28/2018
+Lab 13
+
+1)
+Please enter the name of the file input.txt
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 5
+Exiting
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 1
+bass - 1.11
+brook trout - 3.21
+cutthroat trout - 5.68
+ling - 0.25
+rainbow trout - 1.23
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 2
+Enter a filename: IluvDisney
+
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 3
+Enter a index number: 1
+Enter a index number: 3
+The two fish are not equal
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 3
+Enter a index number: 5
+Enter a index number: 7
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 7
+	at cscd210Lab13.CSCD210Lab13.main(CSCD210Lab13.java:54)
+
+2)
+Please enter the name of the file bannas
+The file does not exist
+Please enter the name of the file IluvDisney
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1967)
+	at cscd210Methods.CSCD210Lab13Methods.fillArray(CSCD210Lab13Methods.java:18)
+	at cscd210Lab13.CSCD210Lab13.main(CSCD210Lab13.java:29)
+
+3)
+Please enter the name of the file input.txt
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 3
+Enter a index number: 1
+Enter a index number: 1
+The two fish are equal in both name and weight
+1)Print the array to the screen
+2)Print the array to an output file
+3)Read and index and check for equality
+4)Quit
+Enter a choice: 4
+Exiting

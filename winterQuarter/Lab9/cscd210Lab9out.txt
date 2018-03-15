@@ -1,0 +1,162 @@
+Gabrielle Wolf
+CSCD 210
+2/10/2018
+Lab 9
+
+1)
+Please enter the name of the player: Gabbie
+
+Please enter the name of the player: Brittany
+
+Please enter the word to be guessed: kylorenroxs
+
+Brittany enter a letter to guess: q
+
+Your word so far: -----------
+Your letters so far: 
+----------------q---------
+You have 6 guesses so far!
+
+Brittany enter a letter to guess: a
+
+Your word so far: -----------
+Your letters so far: 
+a---------------q---------
+You have 5 guesses so far!
+
+Brittany enter a letter to guess: i
+
+Your word so far: -----------
+Your letters so far: 
+a-------i-------q---------
+You have 4 guesses so far!
+
+Brittany enter a letter to guess: e
+
+Your word so far: -----e-----
+Your letters so far: 
+a---e---i-------q---------
+You have 4 guesses so far!
+
+Brittany enter a letter to guess: t
+
+Your word so far: -----e-----
+Your letters so far: 
+a---e---i-------q--t------
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: l
+
+Your word so far: --l--e-----
+Your letters so far: 
+a---e---i--l----q--t------
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: y
+
+Your word so far: -yl--e-----
+Your letters so far: 
+a---e---i--l----q--t----y-
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: o
+
+Your word so far: -ylo-e--o--
+Your letters so far: 
+a---e---i--l--o-q--t----y-
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: k
+
+Your word so far: kylo-e--o--
+Your letters so far: 
+a---e---i-kl--o-q--t----y-
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: r
+
+Your word so far: kylore-ro--
+Your letters so far: 
+a---e---i-kl--o-qr-t----y-
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: n
+
+Your word so far: kylorenro--
+Your letters so far: 
+a---e---i-kl-no-qr-t----y-
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: x
+
+Your word so far: kylorenrox-
+Your letters so far: 
+a---e---i-kl-no-qr-t---xy-
+You have 3 guesses so far!
+
+Brittany enter a letter to guess: s
+
+Your word so far: kylorenroxs
+Your letters so far: 
+a---e---i-kl-no-qrst---xy-
+You have 3 guesses so far!
+
+Congrats you won!Yay!
+Want to run the program again? yes
+
+Please enter the name of the player: Gabbie
+
+Please enter the name of the player:  Brittany
+
+Please enter the word to be guessed: yellow
+
+ Brittany enter a letter to guess: z
+
+Your word so far: ------
+Your letters so far: 
+-------------------------z
+You have 6 guesses so far!
+
+ Brittany enter a letter to guess: x
+
+Your word so far: ------
+Your letters so far: 
+-----------------------x-z
+You have 5 guesses so far!
+
+ Brittany enter a letter to guess: c
+
+Your word so far: ------
+Your letters so far: 
+--c--------------------x-z
+You have 4 guesses so far!
+
+ Brittany enter a letter to guess: v
+
+Your word so far: ------
+Your letters so far: 
+--c------------------v-x-z
+You have 3 guesses so far!
+
+ Brittany enter a letter to guess: b
+
+Your word so far: ------
+Your letters so far: 
+-bc------------------v-x-z
+You have 2 guesses so far!
+
+ Brittany enter a letter to guess: n
+
+Your word so far: ------
+Your letters so far: 
+-bc----------n-------v-x-z
+You have 1 guesses so far!
+
+ Brittany enter a letter to guess: m
+
+Your word so far: ------
+Your letters so far: 
+-bc---------mn-------v-x-z
+You have 0 guesses so far!
+
+Want to run the program again? no

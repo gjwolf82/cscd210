@@ -1,0 +1,200 @@
+public class PracticeTest9 {
+
+   public static void main(String[] args) {
+      
+    int num = 1;
+    
+    while (!(num%3==0 && num%5 ==0 && num%7 ==0)) {
+      System.out.println(num);
+      num++;
+    }
+      
+    
+
+   }
+}
+-----------------------------------------------------------------------------------------------------------------------
+import java.util.*;
+
+public class PracticeTest8 {
+
+   public static void main(String[] args) {
+
+      double num1;
+      double num2;
+      double num3;
+      double num4;
+      Scanner kb = new Scanner(System.in);
+      
+      System.out.print("Enter a number: ");
+      num1 = kb.nextDouble();
+      
+      System.out.print("Enter a second number: ");
+      num2 = kb.nextDouble();
+      
+      System.out.print("Enter a third number: ");
+      num3 = kb.nextDouble();
+      
+      System.out.print("Enter a fourth number: ");
+      num4 = kb.nextDouble();
+      
+      if (num1<num2 && num1<num3 && num1<num4) {
+         System.out.println(num1);
+      }else if (num2<num1 && num2<num3 && num2<num4) {
+         System.out.println(num2);
+      }else if (num3<num1 && num3<num4 && num3<num2) {
+         System.out.println(num3);
+      }else {
+         System.out.println(num4);
+      }
+   }
+}
+-----------------------------------------------------------------------------------------------------------
+public class PracticeTest7 {
+
+   public static void main(String[] args) {
+
+      int strt = 8;
+      do {
+         
+         System.out.println(strt);
+         strt -= 2;
+      }while (strt > -10);
+
+   }
+}
+------------------------------------------------------------------------------------------------
+import java.util.*;
+
+public class PracticeTest6 {
+
+   public static void main(String[] args) {
+      
+      Scanner kb = new Scanner(System.in);
+      int radius;
+      
+      System.out.print("Enter a radius number: ");
+      radius = kb.nextInt();
+      
+      double area = 3.14*(radius*radius);
+      
+      System.out.println(radius +" is the radius " + area +" is the area");
+   
+
+   }
+}
+------------------------------------------------------------------------------------------------------
+public class PracticeTest5 {
+
+   public static void main(String[] args){
+
+      int strt = 2500;
+      int sum = 0;
+      
+      while (strt <=3500) {
+         sum = strt + sum;
+         strt++;
+      }
+      System.out.println(sum);
+
+
+   }
+}
+----------------------------------------------------------------------------------------------------------------
+import java.util.*;
+
+public class PracticeTest4 {
+
+   public static void main(String[] args) {
+
+      int classNum;
+      Scanner kb = new Scanner(System.in);
+      
+      System.out.print("Enter your grade number in college: ");
+      classNum = kb.nextInt();
+      
+      switch (classNum) {
+         case 1 :
+            System.out.println(classNum + " Freshman");
+            break;
+         case 2:
+            System.out.println(classNum + " Sophmore");
+            break;
+         case 3:
+            System.out.println(classNum + " Junior");
+            break;
+         case 4:
+            System.out.println(classNum + " Senior");
+            break;
+         default:
+            System.out.println("Graduate Student");
+            break;
+      } 
+   }
+}
+------------------------------------------------------------------------------------------------------------------------
+import java.util.*;
+
+public class PracticeTest3 {
+   
+   public static void main(String[] args) {
+
+      Scanner kb = new Scanner(System.in);
+      int input;
+      
+      System.out.print("Enter a number: ");
+      input = kb.nextInt();
+      
+      if (input%2 == 0) {
+         System.out.println(input +" This number is even.");
+      }else {
+         System.out.println(input + " This number is odd");
+      }
+
+   }
+}
+------------------------------------------------------------------------------------------------------------------------------
+public class PracticeTest2 {
+
+   public static void main(String[] args) {
+
+      for (int loopstrt = 100; loopstrt <= 202; loopstrt+=3) {
+         System.out.println(loopstrt);
+      }
+
+   }
+}
+----------------------------------------------------------------------------------------------------------------------------------
+import java.util.*;
+
+public class PracticeTest1 {
+
+   public static void main(String[] args) {
+   
+      int num1;
+      int num2;
+      int num3;
+      Scanner kb = new Scanner(System.in);
+      
+      System.out.print("Enter a number: ");
+      num1 = kb.nextInt();
+      
+      System.out.print("Enter a second number: ");
+      num2 = kb.nextInt();
+      
+      System.out.print("Enter a third number: ");
+      num3 = kb.nextInt();
+      
+      if (num1%3 == 0) {
+         System.out.println(num1);
+      }
+      if (num2%3 == 0) {
+         System.out.println(num2);
+      }
+      if (num3%3 ==0) {
+         System.out.println(num3);
+      }
+   
+   }
+}
+--------------------------------------------------------------------------------------------------------------------------------------------

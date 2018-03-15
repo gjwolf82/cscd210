@@ -1,0 +1,112 @@
+Gabrielle Wolf
+CSCD 210
+2/14/2018
+Lab 10
+
+1)
+ ----jGRASP exec: java cscd210Lab10.CSCD210Lab10
+Enter a file name: input.txt
+Brittany
+Brooks
+Gabby
+Levi
+Putnam
+Spencer
+Stiener
+Stu
+Wolf
+
+
+
+
+adversativeconjunction
+anthropomorphologically
+antidisestablishmentarianism
+antiestablishmentarians
+beating around the bush
+carboxymethylcelluloses
+chlorotrifluoroethylene
+cyclotrimethylenetrinitramine
+deinstitutionalizations
+dichlorodifluoromethane
+electroencephalographic
+electrophotomicrography
+ethylenediaminetetraacetates
+floccinaucinihilipilification
+hexamethylenetetramines
+hydrochlorofluorocarbon
+hypobetalipoproteinemia
+magnetohydrodynamically
+methylenedioxymethamphetamine
+microspectrophotometric
+penny for your thoughts
+polytetrafluoroethylene
+thymolsulphonephthalein
+transubstantiationalist
+
+
+
+
+ ----jGRASP: operation complete.
+2)
+Enter a file name: output.txt
+Enter a file name: word.txt
+Enter a file name: words.text
+Enter a file name: words.txt
+a
+aardvark
+aback
+abacus
+abaft
+abalone
+abandon
+abandoned
+abase
+abash
+abate
+azure
+b
+babble
+babe
+babel
+baboon
+babushka
+baby
+baccalaureate
+bacchanalia
+bachelor
+bacillus
+back
+
+
+
+
+adversativeconjunction
+anthropomorphologically
+antidisestablishmentarianism
+antiestablishmentarians
+beating around the bush
+carboxymethylcelluloses
+chlorotrifluoroethylene
+cyclotrimethylenetrinitramine
+deinstitutionalizations
+dichlorodifluoromethane
+electroencephalographic
+electrophotomicrography
+ethylenediaminetetraacetates
+floccinaucinihilipilification
+hexamethylenetetramines
+hydrochlorofluorocarbon
+hypobetalipoproteinemia
+magnetohydrodynamically
+methylenedioxymethamphetamine
+microspectrophotometric
+penny for your thoughts
+polytetrafluoroethylene
+thymolsulphonephthalein
+transubstantiationalist
+
+
+
+
+ ----jGRASP: operation complete.

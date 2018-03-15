@@ -1,0 +1,66 @@
+Gabrielle Wolf
+CSCD 210
+1/25/2018
+Lab 6
+
+1)
+Enter a new positive integer: 126540
+
+1) Enter a new number
+2) Print the number of even/odd/zeros
+3) Print if the number is light or heavy
+4) Print the primes from 2 to the entered number
+5) Quit
+Enter a choice: 
+2
+
+Odds: 2, Evens: 3, Zeros: 1
+
+1) Enter a new number
+2) Print the number of even/odd/zeros
+3) Print if the number is light or heavy
+4) Print the primes from 2 to the entered number
+5) Quit
+Enter a choice: 
+
+2)
+Enter a new positive integer: 109853
+
+1) Enter a new number
+2) Print the number of even/odd/zeros
+3) Print if the number is light or heavy
+4) Print the primes from 2 to the entered number
+5) Quit
+Enter a choice: 
+3
+
+Enter a second integer to see if your original number is light or heavy: 1342
+109853 is a heavy number compared to 1342
+
+1) Enter a new number
+2) Print the number of even/odd/zeros
+3) Print if the number is light or heavy
+4) Print the primes from 2 to the entered number
+5) Quit
+Enter a choice: 
+
+3)
+Enter a new positive integer: 124
+
+1) Enter a new number
+2) Print the number of even/odd/zeros
+3) Print if the number is light or heavy
+4) Print the primes from 2 to the entered number
+5) Quit
+Enter a choice: 
+4
+The prime numbers from 2 to 124 are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 
+
+1) Enter a new number
+2) Print the number of even/odd/zeros
+3) Print if the number is light or heavy
+4) Print the primes from 2 to the entered number
+5) Quit
+Enter a choice: 
+5
+Good Bye

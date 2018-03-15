@@ -1,0 +1,174 @@
+Gabrielle Wolf
+CSCD 210
+3/2/2018
+Lab 14
+
+1)Lab 14 Main
+The Rational Number is 1/1
+The Rational Number is -9/17
+The Rational Number is 2/1
+The Rational Number is -1/2
+The Rational Number is 1/9
+The Rational Number is 2/1
+
+Adding -9/17 to -1/2 is -35/34
+
+The reciprocal of -1/2 is -1/2
+
+Rational 2/1 is equal to Rational 2/1
+
+The Rational Number is -9/17
+The Rational Number is -1/2
+The Rational Number is 1/9
+The Rational Number is 1/1
+The Rational Number is 2/1
+The Rational Number is 2/1
+
+2)Main Tester 1
+The Rational Number is 1/1
+The Rational Number is 1997/9281997
+The Rational Number is -5/2
+The Rational Number is 1/2
+The Rational Number is 983/5
+The Rational Number is 197/11
+
+Add Method:
+Adding 1/1 to 1997/9281997 is 9283994/9281997
+Adding 1/1 to -5/2 is -3/2
+Adding 1/1 to 1/2 is 3/2
+Adding 1/1 to 983/5 is 988/5
+Adding 1/1 to 197/11 is 208/11
+Adding 1997/9281997 to 1997/9281997 is 1582409646/1575649751
+Adding 1997/9281997 to -5/2 is -46405991/18563994
+Adding 1997/9281997 to 1/2 is 9285991/18563994
+Adding 1997/9281997 to 983/5 is 534278444/46409985
+Adding 1997/9281997 to 197/11 is 1828575376/102101967
+Adding -5/2 to 1997/9281997 is -46405991/18563994
+Adding -5/2 to -5/2 is -5/1
+Adding -5/2 to 1/2 is -2/1
+Adding -5/2 to 983/5 is 1941/10
+Adding -5/2 to 197/11 is 339/22
+Adding 1/2 to 1997/9281997 is 9285991/18563994
+Adding 1/2 to -5/2 is -2/1
+Adding 1/2 to 1/2 is 1/1
+Adding 1/2 to 983/5 is 1971/10
+Adding 1/2 to 197/11 is 405/22
+Adding 983/5 to 1997/9281997 is 534278444/46409985
+Adding 983/5 to -5/2 is 1941/10
+Adding 983/5 to 1/2 is 1971/10
+Adding 983/5 to 983/5 is 1966/5
+Adding 983/5 to 197/11 is 11798/55
+Adding 197/11 to 1997/9281997 is 1828575376/102101967
+Adding 197/11 to -5/2 is 339/22
+Adding 197/11 to 1/2 is 405/22
+Adding 197/11 to 983/5 is 11798/55
+Adding 197/11 to 197/11 is 394/11
+
+Reciprocal Method: 
+The reciprocal of 1/2 is 1/1
+The reciprocal of 1/2 is 1997/9281997
+The reciprocal of 1/2 is -5/2
+The reciprocal of 1/2 is 1/2
+The reciprocal of 1/2 is 983/5
+The reciprocal of 1/2 is 197/11
+
+toString Method:
+1/1
+1997/9281997
+-5/2
+1/2
+983/5
+197/11
+
+Equals Method: 
+Rational 1/1 is NOT equal to Rational 1997/9281997
+Rational 1/1 is NOT equal to Rational -5/2
+Rational 1/1 is NOT equal to Rational 1/2
+Rational 1/1 is NOT equal to Rational 983/5
+Rational 1/1 is NOT equal to Rational 197/11
+Rational 1997/9281997 is equal to Rational 1997/9281997
+Rational 1997/9281997 is NOT equal to Rational -5/2
+Rational 1997/9281997 is NOT equal to Rational 1/2
+Rational 1997/9281997 is NOT equal to Rational 983/5
+Rational 1997/9281997 is NOT equal to Rational 197/11
+Rational -5/2 is NOT equal to Rational 1997/9281997
+Rational -5/2 is equal to Rational -5/2
+Rational -5/2 is NOT equal to Rational 1/2
+Rational -5/2 is NOT equal to Rational 983/5
+Rational -5/2 is NOT equal to Rational 197/11
+Rational 1/2 is NOT equal to Rational 1997/9281997
+Rational 1/2 is NOT equal to Rational -5/2
+Rational 1/2 is equal to Rational 1/2
+Rational 1/2 is NOT equal to Rational 983/5
+Rational 1/2 is NOT equal to Rational 197/11
+Rational 983/5 is NOT equal to Rational 1997/9281997
+Rational 983/5 is NOT equal to Rational -5/2
+Rational 983/5 is NOT equal to Rational 1/2
+Rational 983/5 is equal to Rational 983/5
+Rational 983/5 is NOT equal to Rational 197/11
+Rational 197/11 is NOT equal to Rational 1997/9281997
+Rational 197/11 is NOT equal to Rational -5/2
+Rational 197/11 is NOT equal to Rational 1/2
+Rational 197/11 is NOT equal to Rational 983/5
+Rational 197/11 is equal to Rational 197/11
+
+hashCode Method:
+2
+9283994
+-3
+3
+988
+208
+
+compareTo Method:
+1/1 is greater than 1997/9281997
+1/1 is greater than -5/2
+1/1 is greater than 1/2
+1/1 is less than 983/5
+1/1 is less than 197/11
+
+They are equal
+1997/9281997 is greater than -5/2
+1997/9281997 is less than 1/2
+1997/9281997 is less than 983/5
+1997/9281997 is less than 197/11
+
+-5/2 is less than 1997/9281997
+They are equal
+-5/2 is less than 1/2
+-5/2 is less than 983/5
+-5/2 is less than 197/11
+
+1/2 is greater than 1997/9281997
+1/2 is greater than -5/2
+They are equal
+1/2 is less than 983/5
+1/2 is less than 197/11
+
+983/5 is greater than 1997/9281997
+983/5 is greater than -5/2
+983/5 is greater than 1/2
+They are equal
+983/5 is greater than 197/11
+
+197/11 is greater than 1997/9281997
+197/11 is greater than -5/2
+197/11 is greater than 1/2
+197/11 is less than 983/5
+They are equal
+
+3)Main Tester 2
+	a) Precondition in EVC den == 0
+	Exception in thread "main" java.lang.IllegalArgumentException: Error in Denominator
+	at cscd210Classes.Rational.<init>(Rational.java:20)
+	at cscd210MainTesters.CSCD210MainTester2.main(CSCD210MainTester2.java:12)
+	
+	b)Precondition for Add
+	Exception in thread "main" java.lang.IllegalArgumentException: Error in another
+	at cscd210Classes.Rational.add(Rational.java:53)
+	at cscd210MainTesters.CSCD210MainTester2.main(CSCD210MainTester2.java:17)
+
+	c)Preconditon for compareTo
+	Exception in thread "main" java.lang.IllegalArgumentException: Error in Another
+	at cscd210Classes.Rational.compareTo(Rational.java:111)
+	at cscd210MainTesters.CSCD210MainTester2.main(CSCD210MainTester2.java:20)

@@ -1,0 +1,42 @@
+Gabrielle Wolf
+CSCD 210
+1/29/2018
+Lab 7
+
+1)
+Enter your name: Stu Steiner
+Please enter your height 79
+Please enter your weight 145
+Stu Steiner with a weight of 145.0 and a height of 79.0, your BMI is 16.333119692356995 you are underweight
+Want to run the program again? no
+
+2)
+Enter your name: 
+Enter your name: 9232
+Please enter your height 0
+Please enter your weight 0
+Exception in thread "main" java.lang.IllegalArgumentException: Error in weight or height
+	at cscd210Methods.CSCD210Lab7Methods.calcBMI(CSCD210Lab7Methods.java:10)
+	at cscd210Lab7.CSCD210Lab7.main(CSCD210Lab7.java:24)
+
+3)
+Enter your name: Gabrielle Wolf
+Please enter your height 72
+Please enter your weight 220
+Gabrielle Wolf with a weight of 220.0 and a height of 72.0, your BMI is 29.834104938271604 you are overweight
+Want to run the program again? nope
+Want to run the program again? yas
+Want to run the program again? no
+
+4)
+Enter your name: Maria
+Please enter your height 67
+Please enter your weight 150
+Maria with a weight of 150.0 and a height of 67.0, your BMI is 23.49075517932724 you are normal
+Want to run the program again? YES
+Enter your name: Maria
+Please enter your height 65
+Please enter your weight 150
+Maria with a weight of 150.0 and a height of 65.0, your BMI is 24.958579881656807 you are normal
+Want to run the program again? NO
+

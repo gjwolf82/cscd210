@@ -1,0 +1,93 @@
+Gabrielle Wolf
+CSCD 210
+2/10/2018
+Lab 9
+
+1)
+Please enter the name of the player: Gab
+
+Please enter the name of the player: Brit
+
+Please enter the word to be guessed: yellow
+
+Brit enter a letter to guess: z
+
+Your word so far: ------
+Your letters so far: 
+-------------------------z
+You have 6 guesses so far
+Brit enter a letter to guess: x
+
+Your word so far: ------
+Your letters so far: 
+-----------------------x-z
+You have 5 guesses so far
+Brit enter a letter to guess: c
+
+Your word so far: ------
+Your letters so far: 
+--c--------------------x-z
+You have 4 guesses so far
+Brit enter a letter to guess: v
+
+Your word so far: ------
+Your letters so far: 
+--c------------------v-x-z
+You have 3 guesses so far
+Brit enter a letter to guess: b
+
+Your word so far: ------
+Your letters so far: 
+-bc------------------v-x-z
+You have 2 guesses so far
+Brit enter a letter to guess: n
+
+Your word so far: ------
+Your letters so far: 
+-bc----------n-------v-x-z
+You have 1 guesses so far
+Brit enter a letter to guess: m
+
+Your word so far: ------
+Your letters so far: 
+-bc---------mn-------v-x-z
+You have 0 guesses so far
+Want to run the program again? yes
+
+Please enter the name of the player: Gab
+
+Please enter the name of the player: Brit
+
+Please enter the word to be guessed: yellow
+
+Brit enter a letter to guess: y
+
+Your word so far: y-----
+Your letters so far: 
+------------------------y-
+You have 7 guesses so far
+Brit enter a letter to guess: e
+
+Your word so far: ye----
+Your letters so far: 
+----e-------------------y-
+You have 7 guesses so far
+Brit enter a letter to guess: l
+
+Your word so far: yell--
+Your letters so far: 
+----e------l------------y-
+You have 7 guesses so far
+Brit enter a letter to guess: o
+
+Your word so far: yello-
+Your letters so far: 
+----e------l--o---------y-
+You have 7 guesses so far
+Brit enter a letter to guess: w
+
+Your word so far: yellow
+Your letters so far: 
+----e------l--o-------w-y-
+You have 7 guesses so far
+Brit enter a letter to guess:
